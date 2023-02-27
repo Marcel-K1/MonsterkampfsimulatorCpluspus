@@ -1,13 +1,15 @@
-﻿  Monsterkampfsimulator_2.cpp
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(35,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(36,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(37,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(38,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(62,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(63,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(64,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(65,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(346): warning C4715: 'GetUserInputRace': not all control paths return a value
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(323): warning C4715: 'GetUserInputRace': not all control paths return a value
-G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(279): warning C4715: 'GetUserInputFloat': not all control paths return a value
-  Monsterkampfsimulator_2.vcxproj -> G:\Meine Ablage\SAE Games Programming\C++\Monsterkampfsimulator_2\x64\Debug\Monsterkampfsimulator_2.exe
+﻿  Monster.cpp
+  Monsterkampfsimulator_2.cpp
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(35,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(36,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(37,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(38,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(62,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(63,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(64,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(65,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(346): warning C4715: 'GetUserInputRace': not all control paths return a value
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(279): warning C4715: 'GetUserInputFloat': not all control paths return a value
+C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\Monsterkampfsimulator_2\Monsterkampfsimulator_2.cpp(323): warning C4715: 'GetUserInputRace': not all control paths return a value
+  Monsterkampfsimulator_2.vcxproj -> C:\Users\Klein\source\repos\MonsterkampfsimulatorCpluspus\x64\Debug\Monsterkampfsimulator_2.exe
